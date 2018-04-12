@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<widget xmlns = "htt://www.w3.org/ns/widgets"
-xmlns:gap="htt://phonegap.com/ns/1.0"
+<widget xmlns = "http://www.w3.org/ns/widgets"
+ xmlns:gap="http://phonegap.com/ns/1.0"
 id ="com.phonegap.app1"
 version ="1.0.0">
 
-<name>app1-2018 Datos del Dispositivo</name>
+<name> app1-2018 Datos del Dispositivo </name>
 
 <description>
 Aplicacion que muestra los Datos del Dispositivo
 </description>
 
-<author href="https://build.phonegap.com"email="cb16.xelhua.garcia.lupita@gmail.com">
+<author href="https://build.phonegap.com" email="cb16.xelhua.garcia.lupita@gmail.com">
  Maria Guadalupe Xelhua Garcia
 </author>
 
